@@ -1,0 +1,2 @@
+Pada pemrograman ini overriding terdapat pada hampir semua subclass, sedangkan access protected hanya terdapat pada subclass AnakKecil
+Untuk program ini saya masih program dasar tanpa harus menginput apapun agar dapat di pahami dasarnya 
